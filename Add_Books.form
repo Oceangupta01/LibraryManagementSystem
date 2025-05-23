@@ -186,5 +186,5 @@
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="b2ActionPerformed"/>
       </Events>
     </Component>
-  </SubComponents>
-</Form>
+  </SubComponents>        
+ </Form>
