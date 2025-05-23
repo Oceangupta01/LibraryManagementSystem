@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
+  
 <Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
   <NonVisualComponents>
     <Component class="javax.swing.JProgressBar" name="jProgressBar1">
@@ -152,5 +152,8 @@
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="b7ActionPerformed"/>
       </Events>
     </Component>
+  </SubComponents>
+</Form>
+</Component>
   </SubComponents>
 </Form>
